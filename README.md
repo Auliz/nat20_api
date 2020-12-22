@@ -1,24 +1,5 @@
-# README
+# Metempsychosis D&D by Natural 20 API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This will be the home of the Metempsychosis group's D&D world information for use by Metempsychosis.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is currently under development.
